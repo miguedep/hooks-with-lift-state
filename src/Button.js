@@ -1,4 +1,5 @@
 import React from "react";
+
 export function Button({ updateCount }) {
   const handleClic = () => {
     console.log("click");
